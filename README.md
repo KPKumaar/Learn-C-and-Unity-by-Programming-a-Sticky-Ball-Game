@@ -1,1 +1,1 @@
-# Learn-C-and-Unity-by-Programming-a-Sticky-Ball-Game (U)
+# Learn-C#-and-Unity-by-Programming-a-Sticky-Ball-Game (U)
